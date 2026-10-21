@@ -6,9 +6,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/rushichava2006-design/DSA-in-C-/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/rushichava2006-design/DSA-in-C-/tree/main/0443-string-compression/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/rushichava2006-design/DSA-in-C-/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/rushichava2006-design/DSA-in-C-/tree/main/0443-string-compression/) | Medium |
 <!---LeetCode Topics End-->
