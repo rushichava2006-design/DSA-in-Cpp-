@@ -12,5 +12,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/rushichava2006-design/DSA-in-C-/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0242-valid-anagram](https://github.com/rushichava2006-design/DSA-in-C-/tree/main/0242-valid-anagram/) | Easy |
 | [0443-string-compression](https://github.com/rushichava2006-design/DSA-in-C-/tree/main/0443-string-compression/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/rushichava2006-design/DSA-in-C-/tree/main/0242-valid-anagram/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/rushichava2006-design/DSA-in-C-/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
