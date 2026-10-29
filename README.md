@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/rushichava2006-design/DSA-in-C-/tree/main/0022-generate-parentheses/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/rushichava2006-design/DSA-in-C-/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/rushichava2006-design/DSA-in-C-/tree/main/0242-valid-anagram/) | Easy |
 | [0443-string-compression](https://github.com/rushichava2006-design/DSA-in-C-/tree/main/0443-string-compression/) | Medium |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/rushichava2006-design/DSA-in-C-/tree/main/0022-generate-parentheses/) | Medium |
 | [0509-fibonacci-number](https://github.com/rushichava2006-design/DSA-in-C-/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -47,9 +49,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/rushichava2006-design/DSA-in-C-/tree/main/0022-generate-parentheses/) | Medium |
 | [0078-subsets](https://github.com/rushichava2006-design/DSA-in-C-/tree/main/0078-subsets/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/rushichava2006-design/DSA-in-C-/tree/main/0078-subsets/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/rushichava2006-design/DSA-in-C-/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
