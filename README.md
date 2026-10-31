@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/rushichava2006-design/DSA-in-C-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/rushichava2006-design/DSA-in-C-/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/rushichava2006-design/DSA-in-C-/tree/main/0443-string-compression/) | Medium |
 ## String
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/rushichava2006-design/DSA-in-C-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/rushichava2006-design/DSA-in-C-/tree/main/0242-valid-anagram/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -47,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/rushichava2006-design/DSA-in-C-/tree/main/0078-subsets/) | Medium |
+| [0088-merge-sorted-array](https://github.com/rushichava2006-design/DSA-in-C-/tree/main/0088-merge-sorted-array/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
