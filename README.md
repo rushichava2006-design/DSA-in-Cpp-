@@ -93,6 +93,7 @@ These solutions are for learning and revision. Try solving each problem yourself
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,4 +102,8 @@ These solutions are for learning and revision. Try solving each problem yourself
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 <!---LeetCode Topics End-->
