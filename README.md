@@ -53,8 +53,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/rushichava2006-design/DSA-in-C-/tree/main/0035-search-insert-position/) | Easy |
+| [0048-rotate-image](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0048-rotate-image/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/rushichava2006-design/DSA-in-C-/tree/main/0035-search-insert-position/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0048-rotate-image/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
