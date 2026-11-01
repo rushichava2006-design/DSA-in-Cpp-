@@ -47,3 +47,14 @@
 *Last updated: 2026-11-01* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/rushichava2006-design/DSA-in-C-/tree/main/0035-search-insert-position/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/rushichava2006-design/DSA-in-C-/tree/main/0035-search-insert-position/) | Easy |
+<!---LeetCode Topics End-->
