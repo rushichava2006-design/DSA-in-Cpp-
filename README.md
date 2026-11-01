@@ -86,3 +86,19 @@ These solutions are for learning and revision. Try solving each problem yourself
 ---
 
 **If you find this repository useful, consider giving it a ⭐ on GitHub.**
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+<!---LeetCode Topics End-->
