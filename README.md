@@ -1,4 +1,4 @@
-# DSA-in-Cpp 🚀
+# DSA-in-Cpp 💀
 
 A collection of **Data Structures and Algorithms (DSA) solutions in C++**, primarily covering problems from [LeetCode](https://leetcode.com/) and [GeeksforGeeks](https://www.geeksforgeeks.org/).
 
