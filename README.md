@@ -93,6 +93,7 @@ These solutions are for learning and revision. Try solving each problem yourself
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0410-split-array-largest-sum](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -100,6 +101,7 @@ These solutions are for learning and revision. Try solving each problem yourself
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0410-split-array-largest-sum](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,4 +116,16 @@ These solutions are for learning and revision. Try solving each problem yourself
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0410-split-array-largest-sum/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0410-split-array-largest-sum/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0410-split-array-largest-sum/) | Hard |
 <!---LeetCode Topics End-->
