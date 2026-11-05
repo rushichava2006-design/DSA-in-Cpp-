@@ -23,7 +23,9 @@ public:
             slow = slow->next;
             fast = fast->next;
         }
-        swap(firstNode->val,slow->val);
+        int t = firstNode->val;
+        firstNode->val = slow->val;
+        slow->val = t ;        
         return head;
         // int lenght = 0 ;
         // ListNode* temp = head ;
