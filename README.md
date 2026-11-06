@@ -132,6 +132,7 @@ These solutions are for learning and revision. Try solving each problem yourself
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -143,6 +144,7 @@ These solutions are for learning and revision. Try solving each problem yourself
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
