@@ -14,7 +14,7 @@ public:
         ListNode* dummy =new ListNode(-1) ;
         ListNode* temp1 = head ;
         ListNode* temp2 = dummy;
-        while(temp1 != NULL){
+        while(temp1 != NULL){ // we will not select this code
             ListNode* x = temp1->next;
             if(x != NULL and temp1->val == x->val){
                 while(x != NULL and x->val == temp1->val) x = x->next;
