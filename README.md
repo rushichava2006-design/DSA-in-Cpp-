@@ -134,6 +134,7 @@ These solutions are for learning and revision. Try solving each problem yourself
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
@@ -143,6 +144,7 @@ These solutions are for learning and revision. Try solving each problem yourself
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Hash Table
@@ -150,6 +152,7 @@ These solutions are for learning and revision. Try solving each problem yourself
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
