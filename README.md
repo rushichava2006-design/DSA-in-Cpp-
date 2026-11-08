@@ -159,6 +159,7 @@ These solutions are for learning and revision. Try solving each problem yourself
 | [0141-linked-list-cycle](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,4 +169,12 @@ These solutions are for learning and revision. Try solving each problem yourself
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 <!---LeetCode Topics End-->
