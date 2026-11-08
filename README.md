@@ -172,9 +172,18 @@ These solutions are for learning and revision. Try solving each problem yourself
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
