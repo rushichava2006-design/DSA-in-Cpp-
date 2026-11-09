@@ -96,16 +96,19 @@ These solutions are for learning and revision. Try solving each problem yourself
 | [0410-split-array-largest-sum](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0493-reverse-pairs](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0493-reverse-pairs/) | Hard |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0493-reverse-pairs](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0493-reverse-pairs/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0493-reverse-pairs](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0493-reverse-pairs/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,4 +189,24 @@ These solutions are for learning and revision. Try solving each problem yourself
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0493-reverse-pairs/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0493-reverse-pairs/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0493-reverse-pairs/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0493-reverse-pairs/) | Hard |
+## Treap
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->
