@@ -97,6 +97,7 @@ These solutions are for learning and revision. Try solving each problem yourself
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0493-reverse-pairs](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0493-reverse-pairs/) | Hard |
+| [0912-sort-an-array](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0912-sort-an-array/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -109,6 +110,7 @@ These solutions are for learning and revision. Try solving each problem yourself
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0493-reverse-pairs](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0493-reverse-pairs/) | Hard |
+| [0912-sort-an-array](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0912-sort-an-array/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +121,7 @@ These solutions are for learning and revision. Try solving each problem yourself
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0912-sort-an-array](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0912-sort-an-array/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,6 +204,7 @@ These solutions are for learning and revision. Try solving each problem yourself
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0493-reverse-pairs/) | Hard |
+| [0912-sort-an-array](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0912-sort-an-array/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -209,4 +213,20 @@ These solutions are for learning and revision. Try solving each problem yourself
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0493-reverse-pairs/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0912-sort-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0912-sort-an-array/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
