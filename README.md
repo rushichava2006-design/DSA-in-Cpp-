@@ -93,6 +93,7 @@ These solutions are for learning and revision. Try solving each problem yourself
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0164-maximum-gap](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0164-maximum-gap/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
@@ -120,6 +121,7 @@ These solutions are for learning and revision. Try solving each problem yourself
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0164-maximum-gap](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0164-maximum-gap/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0912-sort-an-array](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0912-sort-an-array/) | Medium |
 ## Dynamic Programming
@@ -220,13 +222,19 @@ These solutions are for learning and revision. Try solving each problem yourself
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0164-maximum-gap](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0164-maximum-gap/) | Medium |
 | [0912-sort-an-array](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0912-sort-an-array/) | Medium |
 ## Radix Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0164-maximum-gap](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0164-maximum-gap/) | Medium |
 | [0912-sort-an-array](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0912-sort-an-array/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0912-sort-an-array/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/rushichava2006-design/DSA-in-Cpp-/tree/main/0164-maximum-gap/) | Medium |
 <!---LeetCode Topics End-->
